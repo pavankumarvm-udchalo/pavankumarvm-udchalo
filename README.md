@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavankumarvm-udchalo
 - 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently learning AWS and NodeJs Backend development.
+- 🌱 I’m currently learning Angular and NodeJs Backend development.
 - 💞️ I’m looking to collaborate on udChalo
 - 📫 How to reach me, it's quite simple
   Mail me at: pavankumar.maurya@udchalo.com
